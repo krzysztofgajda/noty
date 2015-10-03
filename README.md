@@ -9,3 +9,12 @@
 Bla, bla, bla...
 
 Bla, ???
+
+## Pierwsze programy w C
+
+Zwykle zaczynamy od [hello world](/):
+
+```c
+int main() {
+  printf("hello world\n)"
+}
