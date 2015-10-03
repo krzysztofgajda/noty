@@ -1,14 +1,17 @@
 # Materiały do ćwiczeń
 
 - [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+- [ ] Markdown ciąg dalszy [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [ ] Atom edytor
-- [ ] Nauka powłoki Bash 
+- [ ] Nauka powłoki Bash
 - [ ] Nauka SSH
 - [ ] Hasła
 
-Bla, bla, bla...
-
-Bla, ???
+git clone (adres)
+ssh-keygen
+cat ~/.ssh
+uruchomienie edytora: atom .
+ctrl + r : wyszukiwanie
 
 ## Pierwsze programy w C
 
