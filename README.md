@@ -1,6 +1,6 @@
 # Materiały do ćwiczeń
 
-- [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
+- [x] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
 - [ ] Atom edytor
 - [ ] Nauka powłoki Bash 
 - [ ] Nauka SSH
