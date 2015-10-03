@@ -1,7 +1,10 @@
 # Materiały do ćwiczeń
 
 - [ ] podstawy notacji [Markdown](https://daringfireball.net/projects/markdown/)
-- [ ] coś jeszcze: Atom edytor, Bash, SSH, hasła
+- [ ] Atom edytor
+- [ ] Nauka powłoki Bash 
+- [ ] Nauka SSH
+- [ ] Hasła
 
 Bla, bla, bla...
 
