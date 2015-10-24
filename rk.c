@@ -14,7 +14,7 @@ int main(int argc, char const *argv[]) {
     printf("pierwiastki: %f %f\n", x1, x2);
   } else if (delta == 0) {
     double x1 = -b / 2 * a;
-    printf("pierwiastki: %f\n", x1);
+    printf("pierwiastek: %f\n", x1);
   } else {
     puts("Brak pierwiastków");
   }
