@@ -15,6 +15,7 @@ int main()
      printf("Error: błąd w konnwersji pierwszej liczby\n");
      exit(1);
    }
+
    printf("Podaj druga liczbe: ");
    result_b = scanf("%d", &b);
    if (result_b == 0) {
