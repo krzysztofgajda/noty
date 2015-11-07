@@ -24,9 +24,9 @@ int main() {
 ```
 
 
-# Laboratoria w
+# Laboratoria w C
 
 1. Budowanie programów
 
-* [ ] [5a.c](01-budowanie_programow/5a.c)
-* [ ] [5b.c](01_budowanie_programow/5b.c)
+* [X] [5a.c](01-budowanie_programow/5a.c)
+* [X] [5b.c](01_budowanie_programow/5b.c)
