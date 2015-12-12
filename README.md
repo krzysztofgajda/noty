@@ -4,8 +4,8 @@
 - [X] Markdown ciąg dalszy [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 - [X] Atom edytor
 - [X] Nauka powłoki Bash
-- [ ] Nauka SSH
-- [ ] Hasła
+- [X] Nauka SSH
+- [X] Hasła
 
 git clone (adres)
 ssh-keygen
