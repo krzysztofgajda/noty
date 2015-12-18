@@ -26,17 +26,17 @@ int main() {
 
 # Laboratoria w C
 
-1. Budowanie programów
+1.Budowanie programów
 
 * [X] [5a.c](01-budowanie_programow/5a.c)
 * [X] [5b.c](01_budowanie_programow/5b.c)
 
-5. Petle
+5.Petle
 
 * [x] [5.c](05-petle/5.c)
 * [x] [6.c](05-petle/6.c)
 
-7. Funkcje
+7.Funkcje
 
 * [x] [1.c](07-funkcje/1.c)
 * [x] [2.c](07-funkcje/2.c)
@@ -47,6 +47,6 @@ int main() {
 * [x] [1.c](11-rekurencja/1.c)
 * [x] [2.c](11-rekurencja/2.c)
 * [x] [4i.c](11-rekurencja/4i.c)
-* [x] [44.c](11-rekurencja/4r.c)
+* [x] [4r.c](11-rekurencja/4r.c)
 
-15. Struktury
+15.Struktury
