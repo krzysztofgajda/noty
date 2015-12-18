@@ -33,4 +33,20 @@ int main() {
 
 5. Petle
 
- [x] [5.c](05-petle/5.c)
+* [x] [5.c](05-petle/5.c)
+* [x] [6.c](05-petle/6.c)
+
+7. Funkcje
+
+* [x] [1.c](07-funkcje/1.c)
+* [x] [2.c](07-funkcje/2.c)
+* [x] [3.c](07-funkcje/3.c)
+
+11.Rekurencja
+
+* [x] [1.c](11-rekurencja/1.c)
+* [x] [2.c](11-rekurencja/2.c)
+* [x] [4i.c](11-rekurencja/4i.c)
+* [x] [44.c](11-rekurencja/4r.c)
+
+15. Struktury
