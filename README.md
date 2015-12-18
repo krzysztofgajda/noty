@@ -33,4 +33,4 @@ int main() {
 
 5. Petle
 
-* [x] [5.c](05-petle/5.c)
+ [x] [5.c](05-petle/5.c)
