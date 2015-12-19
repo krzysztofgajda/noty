@@ -34,6 +34,9 @@ int main() {
 4.Elementarz1
 
 * [x] [1.c](4-elementarz1/1.c)
+* [x] [2.c](4-elementarz1/2.c)
+* [x] [3.c](4-elementarz1/3.c)
+* [x] [4.c](4-elementarz1/4.c)
 
 5.Petle
 
