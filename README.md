@@ -31,6 +31,10 @@ int main() {
 * [X] [5a.c](01-budowanie_programow/5a.c)
 * [X] [5b.c](01_budowanie_programow/5b.c)
 
+4.Elementarz1
+
+* [x] [1.c](04-elementarz1/1.c)
+
 5.Petle
 
 * [x] [5.c](05-petle/5.c)
