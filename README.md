@@ -33,7 +33,7 @@ int main() {
 
 4.Elementarz1
 
-* [x] [1.c](04-elementarz1/1.c)
+* [x] [1.c](4-elementarz1/1.c)
 
 5.Petle
 
