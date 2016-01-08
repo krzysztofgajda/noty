@@ -1,3 +1,6 @@
+//Napisać program, który robi to co poprzedni program, ale tym razem zamiast
+//pętli „for” należy użyć pętli „while”.
+
 #include <stdio.h>
 
 int main() {
