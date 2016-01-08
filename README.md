@@ -42,7 +42,7 @@ int main() {
 * [x] [4.c](4-elementarz1/4.c)
 * [x] [5.c](4-elementarz1/5.c)
 
-5.Petle
+5.Petle z Makefile
 
 * [x] [1.c](05-petle/1.c)
 * [x] [2.c](05-petle/2.c)
@@ -68,7 +68,7 @@ int main() {
 * [x] [4i.c](11-rekurencja/4i.c)
 * [x] [4r.c](11-rekurencja/4r.c)
 
-15.Struktury
+15.Struktury z Makefile
 
 * [x] [1.c](15-struktury/1.c)
 * [x] [rect.c](15-struktury/rect.c)
