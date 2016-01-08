@@ -29,10 +29,10 @@ int main() {
 1.Budowanie programów
 
 * [X] [5a.c](01-budowanie_programow/5a.c)
-* [X] [5b.c](01_budowanie_programow/5b.c)
-* [X] [6.c](01_budowanie_programow/6.c)
-* [ ] [7.c](01_budowanie_programow/7.c)
-* [X] [8.c](01_budowanie_programow/8.c)
+* [X] [5b.c](01-budowanie_programow/5b.c)
+* [X] [6.c](01-budowanie_programow/6.c)
+* [ ] [7.c](01-budowanie_programow/7.c)
+* [X] [8.c](01-budowanie_programow/8.c)
 
 4.Elementarz1
 
