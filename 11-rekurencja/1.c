@@ -1,3 +1,5 @@
+//Napisać rekurencyjną implementację funkcji obliczającej nk (n do potęgi k).
+
 #include <stdio.h>
 int potega (int podstawa, int wykladnik) {
   if (wykladnik == 0) {

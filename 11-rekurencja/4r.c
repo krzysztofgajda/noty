@@ -1,3 +1,5 @@
+//Napisać funkcję rekurencyjną, która wypisuje wszystkie n-wyrazowe ciągi binarne.
+
 #include <stdio.h>
 
 int nwd (int m, int n) {

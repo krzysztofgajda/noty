@@ -1,3 +1,5 @@
+//Napisać funkcję iteracyjną, która wypisuje wszystkie n-wyrazowe ciągi binarne.
+
 #include <stdio.h>
 
 int nwd(int a,int b)
