@@ -8,8 +8,8 @@ int main() {
   int suma = 0, i, n;
 
   do {
-  printf("Podaj ilość liczb (n >= 1): ");
-  scanf("%d", &n);
+    printf("Podaj ilość liczb (n >= 1): ");
+    scanf("%d", &n);
   }
   while(n < 1);
 
