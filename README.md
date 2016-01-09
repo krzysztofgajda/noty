@@ -26,7 +26,7 @@ int main() {
 
 # Laboratoria w C
 
-1.Budowanie programów
+1.Budowanie programów z Makefile
 
 * [X] [5a.c](01-budowanie_programow/5a.c)
 * [X] [5b.c](01-budowanie_programow/5b.c)
@@ -51,7 +51,7 @@ int main() {
 * [x] [5.c](05-petle/5.c)
 * [x] [6.c](05-petle/6.c)
 
-7.Funkcje
+7.Funkcje z Makefile
 
 * [x] [1.c](07-funkcje/1.c)
 * [x] [2.c](07-funkcje/2.c)
