@@ -61,7 +61,7 @@ int main() {
 
 * [ ] [1.c](08-elementarz2/1.c)
 
-11.Rekurencja
+11.Rekurencja z Makefile
 
 * [x] [1.c](11-rekurencja/1.c)
 * [x] [2.c](11-rekurencja/2.c)
